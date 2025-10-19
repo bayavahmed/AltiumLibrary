@@ -1,0 +1,105 @@
+
+denemeler/MMA/SoftWare/MainBoard/.vscode/c_cpp_properties.json
+CAD_FILES/MOTHER_BOARD.pdsprj.AzureAD.MUHAMMETMUSTAFAARSLA.workspace
+CAD_FILES/MOTHER_BOARD.pdsprj.AzureAD.MUHAMMETMUSTAFAARSLA.workspace
+
+
+
+# Temporary files
+# *.000
+*.kicad_prl
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-History
+
+*.sch-bak
+#*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+#*.net
+
+# Autorouter files (exported from Pcbnew)
+#*.dsn
+#*.ses
+
+# Exported BOM files
+#*.xml
+#*.csv
+*.kicad_prl
+cadFiles/craneBasketBalancing/\#auto_saved_files\#
+
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+
+#bu dosya isimlerinin alt klasörleri ignore edilecek.
+**/Keil/lst/
+**/Keil/obj/
+**/GCC/Release/
+**/.vscode
+
+*.uvguix*
+*.uvoptx
+cadFiles/craneBasketBalancing/craneBasketBalancing.kicad_prl
+*.lck
+*.kicad_prl
+/software/Gui_Wifi/__pycache__
+/software/Gui_Wifi/build
