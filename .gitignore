@@ -13,7 +13,24 @@ CAD_FILES/MOTHER_BOARD.pdsprj.AzureAD.MUHAMMETMUSTAFAARSLA.workspace
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
-*-History
+# Altium Designer history files
+*.bak
+*.sch~
+*.prj~
+.History/
+**/History/
+**/History/**
+**/__Previews/
+**/__Previews/**
+*.SchDocPreview
+*.PcbDocPreview
+
+# Altium cache files
+.AltiumCache/
+.Local/
+.Files/
+.dox/
+
 
 *.sch-bak
 #*~
